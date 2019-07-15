@@ -1,3 +1,39 @@
+# DevMash Projects
+
+## Projects
+- Tweet Classify
+- Sustainable Fashion App
+
+## Tweet Classify Project:
+
+### Requirements:
+- node.js
+- react.js
+- flask
+- openvino 2019 r1.1
+- raspberry pi 3 b+
+- intel ncs 2
+
+### Workflow:
+1. Access react web app
+2. Upload photo
+3. Get classification from Classify API
+4. Use classification from API to get related tweet
+5. Repeat step 1-4 if needed :)
+
+### Process:
+Classify API will be a custom REST API hosted on the Raspberry Pi. Raspberry Pi will be the channel through which images are processed and predictions will be sent from raspberry pi to client via http response. Images will be sent to Raspberry Pi via POST request from client react app.
+
+## Sustainable Fashion App
+
+### Requirements:
+
+### Workflow:
+
+### Process:
+
+------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
