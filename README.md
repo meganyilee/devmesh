@@ -2,7 +2,7 @@
 
 ## Projects
 - Tweet Classify
-- Sustainable Fashion App
+- ? Fashion App
 
 ## Tweet Classify Project:
 
@@ -13,7 +13,7 @@
 - openvino 2019 r1.1
 - raspberry pi 3 b+
 - intel ncs 2
-- dataplicity
+- tweet search api
 
 ### Workflow:
 1. Access react web app
@@ -33,7 +33,7 @@ Classify API will be a custom REST API hosted on the Raspberry Pi. Raspberry Pi 
 - Having Fun!
 
 
-## Sustainable Fashion App
+## ? Fashion App
 
 ### Requirements:
 
