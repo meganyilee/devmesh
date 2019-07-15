@@ -28,8 +28,8 @@ Classify API will be a custom REST API hosted on the Raspberry Pi. Raspberry Pi 
 
 ### Purpose:
 - Replicable demo for users to try out themselves
-- Learn REST API construction
-- Learn how to integrate OpenVINO + NCS 2 samples/demos within REST API's with low cost development
+- Learn/Observe example of Full Stack Development
+- Learn how to integrate OpenVINO + NCS 2 samples/demos in stack at low cost development
 - Having Fun!
 
 
