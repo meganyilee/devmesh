@@ -26,7 +26,7 @@
 Classify API will be a custom REST API hosted on the Raspberry Pi. Raspberry Pi will be the channel through which images are processed and predictions will be sent from raspberry pi to client via http response. Images will be sent to Raspberry Pi via POST request from client react app.
 
 
-## Purpose:
+### Purpose:
 - Replicable demo for users to try out themselves
 - Learn REST API construction
 - Learn how to integrate OpenVINO + NCS 2 samples/demos within REST API's with low cost development
