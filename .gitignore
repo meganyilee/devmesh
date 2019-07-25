@@ -32,15 +32,3 @@ backend/dump.rdb
 
 # backend/test_react_app
 backend/test_react_app/node_modules
-backend/test_react_app/.pnp
-backend/test_react_app/.pnp.js
-backend/test_react_app/coverage
-backend/test_react_app/build
-backend/test_react_app/.DS_Store
-backend/test_react_app/.env.local
-backend/test_react_app/.env.development.local
-backend/test_react_app/.env.test.local
-backend/test_react_app/.env.production.local
-backend/test_react_app/npm-debug.log*
-backend/test_react_app/yarn-debug.log*
-backend/test_react_app/yarn-error.log*
